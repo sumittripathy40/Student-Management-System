@@ -18,19 +18,6 @@ A menu-driven **Student Management System** written in Python. The program provi
 
 No external Python packages are required by the current script.
 
-## 🖼️ Screenshots
-
-Add screenshots of the command-line menus and example operations below. Upload screenshots to the repository (for example, inside a `screenshots/` folder), then replace the paths below with the filenames you upload.
-
-### Main Menu
-![Student Management System main menu](screenshots/main-menu.png)
-
-### Admin Operations
-![Admin menu and record management](screenshots/admin-menu.png)
-
-### Student or Teacher Flow
-![Student or teacher login flow](screenshots/user-login.png)
-
 ## 📂 Project Structure
 
 ```text
